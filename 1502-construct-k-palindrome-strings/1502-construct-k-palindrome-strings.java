@@ -15,11 +15,7 @@ class Solution {
         }
         for(char c:unq)
         {
-            if(freequency.get(c)%2 == 0)
-            {
-                evenCount ++;
-            }
-            else
+            if(freequency.get(c)%2 != 0)
             {
                 oddCount++;
             }
