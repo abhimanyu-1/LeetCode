@@ -4,9 +4,8 @@ class Solution {
         if(s.length()<k){return false;}
         Map<Character,Integer> freequency = new HashMap<>();
         int oddCount = 0 ;
-        char[] chars = s.toCharArray();
 
-        for(char c:chars)
+        for(char c : s.toCharArray())
         {
             freequency.put(c,freequency.getOrDefault(c,0)+1);
         }
@@ -17,13 +16,7 @@ class Solution {
                 oddCount++;
             }
         }
-        if(oddCount > k)
-        {
-            return false;
-        }
-        else 
-        {
-            return true;
-        }
+        
+        return oddCount<=k;
     }
 }
