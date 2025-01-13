@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhimanyu-1/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhimanyu-1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhimanyu-1/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/abhimanyu-1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhimanyu-1/LeetCode/tree/master/0020-valid-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhimanyu-1/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
