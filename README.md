@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhimanyu-1/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhimanyu-1/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhimanyu-1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhimanyu-1/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhimanyu-1/LeetCode/tree/master/0020-valid-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhimanyu-1/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
