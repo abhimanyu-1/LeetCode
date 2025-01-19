@@ -17,7 +17,7 @@ class Solution {
             i--;
             j--;
         }
-        if(carry!=0)sb.append(carry);
+        if(carry!=0)sb.append(1);
         return sb.reverse().toString();
     }
 }
