@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhimanyu-1/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhimanyu-1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abhimanyu-1/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/abhimanyu-1/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abhimanyu-1/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhimanyu-1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhimanyu-1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abhimanyu-1/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/abhimanyu-1/LeetCode/tree/master/0067-add-binary) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -105,10 +107,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhimanyu-1/LeetCode/tree/master/0067-add-binary) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhimanyu-1/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abhimanyu-1/LeetCode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhimanyu-1/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
