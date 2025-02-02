@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhimanyu-1/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhimanyu-1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/abhimanyu-1/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhimanyu-1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhimanyu-1/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abhimanyu-1/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1524-string-matching-in-an-array) |
