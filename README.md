@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhimanyu-1/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhimanyu-1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/abhimanyu-1/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/abhimanyu-1/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhimanyu-1/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/abhimanyu-1/LeetCode/tree/master/0231-power-of-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhimanyu-1/LeetCode/tree/master/0217-contains-duplicate) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhimanyu-1/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
