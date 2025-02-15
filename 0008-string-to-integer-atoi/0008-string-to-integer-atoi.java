@@ -4,27 +4,24 @@ class Solution {
     public int myAtoi(String s) {
         if (s == null || s.isEmpty()) return 0;
 
-        s = s.trim(); // Store the trimmed string back
+        s = s.trim();
         StringBuffer str = new StringBuffer();
         int ans = 0, sign = 1;
 
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
-            // Handle sign at the first position
             if (i == 0 && (ch == '-' || ch == '+')) {
                 if (ch == '-') sign = -1;
-                continue; // Skip to the next character
+                continue; 
             }
 
             if (Character.isDigit(ch)) {
-                str.append(ch); // Append the character as it is
+                str.append(ch); 
             } else {
-                break; // Stop at the first non-digit character
+                break; 
             }
         }
-
-        // Handle empty case before conversion
         if (str.length() == 0) return 0;
 
         try {
