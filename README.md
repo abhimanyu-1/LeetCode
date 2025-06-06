@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhimanyu-1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhimanyu-1/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhimanyu-1/LeetCode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/abhimanyu-1/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhimanyu-1/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/abhimanyu-1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhimanyu-1/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/abhimanyu-1/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/abhimanyu-1/LeetCode/tree/master/0070-climbing-stairs) |
 ## String Matching
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhimanyu-1/LeetCode/tree/master/0055-jump-game) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhimanyu-1/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
