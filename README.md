@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhimanyu-1/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/abhimanyu-1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhimanyu-1/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhimanyu-1/LeetCode/tree/master/0217-contains-duplicate) |
 | [0952-word-subsets](https://github.com/abhimanyu-1/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhimanyu-1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhimanyu-1/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/abhimanyu-1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/abhimanyu-1/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhimanyu-1/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
